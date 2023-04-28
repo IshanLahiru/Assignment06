@@ -1,0 +1,67 @@
+header> div>h1{
+    background-color: grey;
+    color: white;
+    padding: 5px 5px 5px 5px;
+
+}
+
+header>nav{
+float: right;
+    margin-top: -50px;
+    margin-right: 10px;
+
+}
+header>nav>a{
+    padding-right: 20px;
+    text-decoration: none;
+    color: black;
+    font-size: 1em;
+}
+h2{
+    background-color: greenyellow;
+    width: 50vw;
+    border-radius: 5px;
+    height: 35px;
+    font-size: 1.5em;
+    margin-top: 20px;
+    padding: 2px 5px 2px 30px;
+}
+#item h2{
+    background-color: #0dcaf0;
+}
+#placeorder h2{
+    background-color: palevioletred;
+
+}
+.container-fluid{
+    background-color: honeydew;
+    margin-left: 10px;
+    height: 100px;
+    width: 300px;
+}
+.btn-group{
+    float: right;
+    margin-right: 30px;
+    margin-top: -160px;
+}
+.btn-group2{
+    margin-top: 70px;
+    margin-left: 10px;
+}
+table {
+    margin-top: 30px;
+}
+.table-light{
+    --bs-table-bg: #9ac5f0;
+}
+.item .table-light{
+    --bs-table-bg: #9ac7;
+}
+section{
+    height: 100vw;
+}
+#placeorder>form{
+    border-radius: 10px;
+    background-color: lightgray;
+    margin: 10px 200px 10px 10px;
+}
